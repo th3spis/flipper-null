@@ -3,6 +3,8 @@
  * Check the license at 'https://github.com/Dukweeno/Duckuino/blob/master/LICENSE'
  */
 
+//Tested for Arduino Leonardo/Micro boards
+
 #include "Keyboard.h"
 
 void typeKey(uint8_t key)
