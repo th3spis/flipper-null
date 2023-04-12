@@ -1,7 +1,9 @@
 /**
  * Translated from Rubber Ducky scripting to C using Duckuino, an open-source project.
  * Check the license at 'https://github.com/Dukweeno/Duckuino/blob/master/LICENSE'
- */
+ * https://dukweeno.github.io/Duckuino/
+ * Alternative: https://duckify.huhn.me/
+*/
 
 //Tested for Arduino Leonardo/Micro boards
 
